@@ -1,3 +1,73 @@
+# UON MyPath
+> A convenient course planner for students of the University of Newcastle
+
+A dedicated application for enrolled students that organizes and displays the subjects and credits needed for graduation
+
+**Link:**
+https://uonmypath.netlify.app
+
+**Backend Repository:**
+https://github.com/wenkai0802/COMP3851_Backend
+
+**How to Access the Admin Page**
+Domain: https://uonmypath.netlify.app/admin/login
+Username: evan123
+Password: 12341234
+
+## Environment Setup and Execution
+
+1. Clone the repository:
+
+```sh
+git clone https://github.com/Gonggibab/COMP3851.git
+```
+
+2. Install NPM packages:
+
+```sh
+npm install
+```
+
+3. npm start
+
+```sh
+npm start
+```
+
+## Usage Examples
+
+> User Information Input Screen
+
+![사용자 정보 입력 화면](https://github.com/Gonggibab/COMP3851/blob/master/screenshots/user_select.png)
+
+> User Main Screen
+
+![사용자 메인 화면](https://github.com/Gonggibab/COMP3851/blob/master/screenshots/user_main.png)
+
+> User Result Screen
+
+![사용자 결과 화면](https://github.com/Gonggibab/COMP3851/blob/master/screenshots/user_result.png)
+
+> Admin Login Screen
+
+![관리자 로그인 화면](https://github.com/Gonggibab/COMP3851/blob/master/screenshots/admin_login.png)
+
+> Admin Main Screen
+
+![사용자 결과 화면](https://github.com/Gonggibab/COMP3851/blob/master/screenshots/admin_main.png)
+
+> Admin Data Editing Screen
+
+![관리자 수정 화면](https://github.com/Gonggibab/COMP3851/blob/master/screenshots/admin_manage.png)
+
+## Information
+
+**Newcastle University**
+
+Bachelor's of Information Technology 
+
+COMP3851B Final Year Project
+
 
 # UON MyPath
 > 뉴캐슬 대학 재학생들을 위한 간편 수강 플래너
